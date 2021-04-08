@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+.carousel-inner p,h5,span{
+    color:#fff ;
+}
+.about_us{
+    max-width: 100%;
+    min-height: 280px;
+}
+.card-title{
+    color: black;
+}
+.modal-title{
+    color: black;
+}
